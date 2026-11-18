@@ -235,6 +235,11 @@
     "url": "Guess Their Answer.html",
     "image": "https://ik.imagekit.io/nowebfilternovember/71tgb7NDY6L.png"
   },
+    {
+    "title": "Sky Rider",
+    "url": "skyrider.html",
+    "image": "https://ik.imagekit.io/nowebfilternovember/71tgb7NDY6L.png"
+  },
   {
     "title": "Happy Wheels",
     "url": "Happy Wheels.html",
@@ -420,6 +425,11 @@
     "url": "tinyfishing.html",
     "image": "https://ik.imagekit.io/nowebfilternovember/images%20(2).png"
   },
+   {
+    "title": "Soflo Wheelie Life",
+    "url": "wheelielife/index.html",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVYv16IFUXxmLYiDy-70gqoNEWj72kRvgNQgdRSJ75g&s=10"
+  },
   {
     "title": "Wave Dash",
     "url": "wavedash.html",
@@ -434,6 +444,11 @@
     "title": "10 Bullets",
     "url": "https://cdn.gitdelivr.in/gh/electricxmaxx/mathassignments/main/10bullets.html",
     "image": "https://ik.imagekit.io/nowebfilternovember/images%20(56).jpg"
+  },
+  {
+    "title": "Tomb of The Mask",
+    "url": "totm.html",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3gqlyl6jM04WTX5uIRlcRVnbuIEW3Y5FdKyQMKxomw&s=10"
   },
   {
     "title": "Snow Road",
@@ -475,10 +490,25 @@
     "url": "angrybirdsslingshotfrenzy.html",
     "image": "https://ik.imagekit.io/doyourwork/images%20(66).jpg"
   },
+   {
+    "title": "Gorilla Tag",
+    "url": "gtag/index.html",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIaK8azIsjcVKtS8AlZwbXCSFWN133uShLyxH38pSSOg&s=10"
+  },
   {
     "title": "Apple Worm",
     "url": "appleworm.html",
     "image": "https://ik.imagekit.io/doyourwork/images%20(67).jpg"
+  },
+   {
+    "title": "Noomiclone",
+    "url": "noomiclone/index.html",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwh-npdaGU4xzaMuB4Igm339jRyBk4C8GbmDr9LxC_8g&s=10"
+  },
+  {
+    "title": "Noomicheems",
+    "url": "classic/index.html",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCNk2Cuo8j86dNUik-KRBLLfKXw1_xsnYe4HyPPKn4A&s"
   },
   {
     "title": "Bad Time Sim",
