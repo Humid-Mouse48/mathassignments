@@ -115,6 +115,11 @@
     "image": "https://ik.imagekit.io/nowebfilternovember/images%20(22).jpg"
   },
   {
+    "title": "Deltarune",
+    "url": "deltarune.html",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj3VkUPjgmtZRxPnVeAANt_J03n52887UnwzUqzyNOng&s=10"
+  },
+  {
     "title": "Dread Head Parkour",
     "url": "dreadheadparkour.htm",
     "image": "https://ik.imagekit.io/nowebfilternovember/unnamed.png"
@@ -530,11 +535,17 @@
     "url": "bobtherobber.html",
     "image": "https://ik.imagekit.io/doyourwork/images%20(6).png"
   },
+   {
+    "title": "Boxing Random",
+    "url": "boxingrandom.html",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsmmvT25AoltrbJwr-55zPuJi28fsP49pf2zgVIdNrQ&s=10"
+  },
   {
     "title": "Brawl Stars",
     "url": "brawlstars.html",
     "image": "https://ik.imagekit.io/doyourwork/images%20(71).jpg"
   },
+  
   {
     "title": "Car Drawing",
     "url": "cardrawing.html",
